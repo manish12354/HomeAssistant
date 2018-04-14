@@ -20,7 +20,7 @@ public class HomeAssistant {
 
   public boolean listen(String instruction) {
     Command command = commands.get ( instruction );
-    if (instruction=="undo"&& (previousInstructions.size ()>0)) {
+    if (instruction=="undo"&& (!previousInstructions.empty ())) {
       return previousInstructions.pop ().undo ();
     }
     if (command!=null) {

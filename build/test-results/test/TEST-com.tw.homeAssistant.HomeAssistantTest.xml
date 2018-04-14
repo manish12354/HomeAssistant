@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.homeAssistant.HomeAssistantTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-04-23T09:41:03" hostname="in-manishy.local" time="0.211">
+  <properties/>
+  <testcase name="shouldUndoTurnOnLight" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.071"/>
+  <testcase name="shouldUndoRecentCommands" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.127"/>
+  <testcase name="shouldReturnFalseIfCommandNotFound" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.0"/>
+  <testcase name="shouldTurnOffTheLight" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.0"/>
+  <testcase name="shouldTurnOnLight" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.001"/>
+  <testcase name="shouldUndoStartParty" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.001"/>
+  <testcase name="shouldStartParty" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.001"/>
+  <testcase name="shouldUndoTurnOffLight" classname="com.tw.homeAssistant.HomeAssistantTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

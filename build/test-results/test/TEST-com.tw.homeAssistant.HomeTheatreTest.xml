@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.homeAssistant.HomeTheatreTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-04-23T09:41:04" hostname="in-manishy.local" time="0.268">
+  <properties/>
+  <testcase name="shouldOffHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.003"/>
+  <testcase name="shouldUndoIncreaseVolumeOfHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.051"/>
+  <testcase name="shouldNotDecreaseVolumeOfHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.002"/>
+  <testcase name="shouldIncreaseVolumeOfHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.004"/>
+  <testcase name="shouldUndoPlayMusic" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.061"/>
+  <testcase name="shouldUndoOffHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.056"/>
+  <testcase name="shouldUndoFullVolume" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.045"/>
+  <testcase name="shouldPlayMusic" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.001"/>
+  <testcase name="shouldOnHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.001"/>
+  <testcase name="shouldFullVolume" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.001"/>
+  <testcase name="shouldUndoOnHomeTheatre" classname="com.tw.homeAssistant.HomeTheatreTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
